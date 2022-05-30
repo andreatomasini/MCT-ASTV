@@ -1,0 +1,5 @@
+print("Hola mundo")
+print("Good morning")
+print("My name is Andrea Sofía Tomasini villanueva")
+print("I am in grade 9 group D")
+print("My favorite food is pizza and I like to dance")
