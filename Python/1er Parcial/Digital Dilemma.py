@@ -1,0 +1,6 @@
+print('How can we act with empathy and positivity when we are online?')
+print('Treating other people with respect.')
+print('1-Identify= People and dilemma:The boy-target of the bullying-dilemma to deliver the letter in person or not, and the possibility of a positive or negative answer.The girl-the accidental bully-dilemma of having answered the letter or uploading it on the internet as a joke.People-dilema of distribute the letter.-')
+print('2-Feel= Boy-nervousness,disappointment and anger.-Girl-sad and guilty.-People-curiosity.-')
+print('3-Imagine= Solutions:1-That they talk to an adult about what happened to improve the situation,2-That the girl apologize to the boy and improve the situation a little.I think the better option for a solution is option 1.')
+print('4-Say= Boy- That he feels better having spoken clearly the situation with the girl and adults to find a solution to his situation.-Girl-That she did not think about the consequences and that she is very sorry.-Adultos-Tell them about the dangers of uploading things to the internet without first thinking about it and that they will help them improve their situation.')
